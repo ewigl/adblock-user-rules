@@ -47,17 +47,5 @@ momoyu.cc###app > div.box.my-footer
 ! 163邮箱
 ! 页面背景广告、header、footer
 mail.163.com##.main-inner-wrap
-mail.163.com##.header
-mail.163.com##.footer-main
-! 邮箱界面-邮推荐
-mail.163.com##.gWel-bottom
-! 会员balabala
-mail.163.com###_mail_component_31_31
-mail.163.com###_mail_component_39_39
-mail.163.com###_mail_component_41_41
-mail.163.com###_mail_component_45_45
-mail.163.com###_mail_component_49_49
-mail.163.com###_mail_component_53_53
-!mail.163.com##[title=\"企业邮箱\"]
 
 ```
